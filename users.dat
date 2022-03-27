@@ -1,0 +1,14 @@
+{
+   "users":[
+      {
+         "name":"test1",
+         "password":"testeeewrw",
+         "lastlogin":null
+      },
+      {
+         "name":"test2",
+         "password":"testeeewrw",
+         "lastlogin":null
+      }
+   ]
+}
