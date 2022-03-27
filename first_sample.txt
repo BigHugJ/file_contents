@@ -1,2 +1,0 @@
-This is the first file for saving the remote file.
-This file is for testing download from java code accessing.
