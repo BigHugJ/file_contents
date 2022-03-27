@@ -1,14 +1,18 @@
 {
    "users":[
       {
+         "id":"1",
          "name":"test1",
          "password":"testeeewrw",
-         "lastlogin":null
+         "loginTime":null,
+         "logoffTime":null
       },
       {
+         "id":"2",
          "name":"test2",
          "password":"testeeewrw",
-         "lastlogin":null
+         "loginTime":null,
+         "logoffTime":null
       }
    ]
 }
