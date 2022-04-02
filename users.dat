@@ -3,6 +3,7 @@
          "id":"1",
          "name":"test1",
          "password":"BNYQB891GwG9apIm2e72GQ==",
+         "onlinestatus":"ONLINE",
          "loginTime":null,
          "logoffTime":null
       },
@@ -10,6 +11,15 @@
          "id":"2",
          "name":"test2",
          "password":"BNYQB891GwG9apIm2e72GQ==",
+         "onlinestatus":"OFFLINE",
+         "loginTime":null,
+         "logoffTime":null
+      },
+      {
+         "id":"3",
+         "name":"test2",
+         "password":"BNYQB891GwG9apIm2e72GQ==",
+         "onlinestatus":"ONLINE",
          "loginTime":null,
          "logoffTime":null
       }
